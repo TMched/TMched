@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TMched
+- 👀 I’m interested in QA and Web Security
+- 🌱 I’m currently learning QA  
+- 💞️ I’m looking to collaborate on testing techniques
+- 📫 How to reach me: via tatyanamchedlidze@mail.com
